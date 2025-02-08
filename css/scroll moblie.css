@@ -1,6 +1,3 @@
-/* Larger screens */
-@media (min-width: 769px) {
- form {
-    font-size: 2.5em;
-	scroll-behavior: smooth;
-  }
+/* moblie screens */
+form {
+}
