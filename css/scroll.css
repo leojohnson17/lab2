@@ -1,6 +1,12 @@
 /* moblie screens */
 @media (max-width: 600px) {
   body {
-    scroll-behavior:
+    scroll-behavior:smooth;
+  }
+}
+/* desktop screens */
+@media (min-width: 769px) {
+  body {
+    scroll-behavior:smooth;
   }
 }
